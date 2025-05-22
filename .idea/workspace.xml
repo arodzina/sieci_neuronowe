@@ -5,11 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7d01297-5796-407f-9d48-10d980894697" name="Changes" comment="problem klasyfikacji">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebook.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nowy.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sieci_neuronowe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sieci_neuronowe.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +78,7 @@
       <updated>1747906256858</updated>
       <workItem from="1747906257873" duration="11049000" />
       <workItem from="1747931645219" duration="4139000" />
-      <workItem from="1747945971538" duration="3459000" />
+      <workItem from="1747945971538" duration="5187000" />
     </task>
     <task id="LOCAL-00001" summary="problem klasyfikacji">
       <option name="closed" value="true" />
@@ -93,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747907036744</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="problem klasyfikacji">
+      <option name="closed" value="true" />
+      <created>1747950512658</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747950512658</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
