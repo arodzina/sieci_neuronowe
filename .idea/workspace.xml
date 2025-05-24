@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7d01297-5796-407f-9d48-10d980894697" name="Changes" comment="problem klasyfikacji 8">
-      <change afterPath="$PROJECT_DIR$/nowy2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="e7d01297-5796-407f-9d48-10d980894697" name="Changes" comment="problem klasyfikacji">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nowy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/nowy.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +80,7 @@
       <workItem from="1747931645219" duration="4139000" />
       <workItem from="1747945971538" duration="10814000" />
       <workItem from="1748007669785" duration="910000" />
-      <workItem from="1748008601677" duration="34348000" />
+      <workItem from="1748008601677" duration="35643000" />
     </task>
     <task id="LOCAL-00001" summary="problem klasyfikacji">
       <option name="closed" value="true" />
@@ -117,16 +114,24 @@
       <option name="project" value="LOCAL" />
       <updated>1748084136251</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="problem klasyfikacji">
+      <option name="closed" value="true" />
+      <created>1748105367544</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1748105367544</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="problem klasyfikacji" />
     <MESSAGE value="problem klasyfikacji 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="problem klasyfikacji 8" />
+    <MESSAGE value="problem klasyfikacji" />
+    <option name="LAST_COMMIT_MESSAGE" value="problem klasyfikacji" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/sieci_neuronowe$main.coverage" NAME="main Coverage Results" MODIFIED="1747907228244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
