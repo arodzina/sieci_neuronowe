@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e7d01297-5796-407f-9d48-10d980894697" name="Changes" comment="problem klasyfikacji">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glowny_program_wytyczne.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/glowny_program_wytyczne.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +84,7 @@
       <workItem from="1748008601677" duration="39353000" />
       <workItem from="1748349765252" duration="1012000" />
       <workItem from="1748371803527" duration="3677000" />
-      <workItem from="1748499217957" duration="2813000" />
+      <workItem from="1748499217957" duration="7343000" />
     </task>
     <task id="LOCAL-00001" summary="problem klasyfikacji">
       <option name="closed" value="true" />
@@ -159,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748375482356</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="problem klasyfikacji">
+      <option name="closed" value="true" />
+      <created>1748507479552</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1748507479552</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
