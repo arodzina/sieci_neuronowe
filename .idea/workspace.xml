@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7d01297-5796-407f-9d48-10d980894697" name="Changes" comment="problem klasyfikacji" />
+    <list default="true" id="e7d01297-5796-407f-9d48-10d980894697" name="Changes" comment="problem klasyfikacji">
+      <change beforePath="$PROJECT_DIR$/wykresy_projekt1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/wykresy_projekt1.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +85,7 @@
       <workItem from="1748349765252" duration="1012000" />
       <workItem from="1748371803527" duration="3677000" />
       <workItem from="1748499217957" duration="8906000" />
-      <workItem from="1748784851324" duration="9380000" />
+      <workItem from="1748784851324" duration="9794000" />
     </task>
     <task id="LOCAL-00001" summary="problem klasyfikacji">
       <option name="closed" value="true" />
@@ -181,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748896648575</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="problem klasyfikacji">
+      <option name="closed" value="true" />
+      <created>1748896779640</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1748896779640</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
