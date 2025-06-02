@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7d01297-5796-407f-9d48-10d980894697" name="Changes" comment="problem klasyfikacji">
-      <change afterPath="$PROJECT_DIR$/projekt1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wytyczne do Projektu SSN.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/czesc2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/glowny_program_wytyczne.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/histogramy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/wykresy_projekt1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projekt2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/projekt2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projekt2_3podejscie.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/szybki_projekt2.ipynb" beforeDir="false" />
-    </list>
+    <list default="true" id="e7d01297-5796-407f-9d48-10d980894697" name="Changes" comment="problem klasyfikacji" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,7 +83,7 @@
       <workItem from="1748349765252" duration="1012000" />
       <workItem from="1748371803527" duration="3677000" />
       <workItem from="1748499217957" duration="8906000" />
-      <workItem from="1748784851324" duration="9009000" />
+      <workItem from="1748784851324" duration="9380000" />
     </task>
     <task id="LOCAL-00001" summary="problem klasyfikacji">
       <option name="closed" value="true" />
@@ -183,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748533114614</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="problem klasyfikacji">
+      <option name="closed" value="true" />
+      <created>1748896648575</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1748896648575</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
