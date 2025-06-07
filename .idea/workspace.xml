@@ -8,7 +8,12 @@
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sieci_neuronowe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sieci_neuronowe.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/wnioski_projekt2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wnioski_projekt2.txt" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/projekt1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/projekt1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projekt2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/projekt2.ipynb" afterDir="false" />
+>>>>>>> f78e5adb0cb81e28b998ecb08ac3946a3b2a0a1c
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +118,9 @@
       <workItem from="1748008601677" duration="39353000" />
       <workItem from="1748349765252" duration="1012000" />
       <workItem from="1748371803527" duration="3677000" />
-      <workItem from="1748499217957" duration="7343000" />
+      <workItem from="1748499217957" duration="8906000" />
+      <workItem from="1748784851324" duration="12553000" />
+      <workItem from="1749232981610" duration="647000" />
     </task>
     <task id="LOCAL-00001" summary="problem klasyfikacji">
       <option name="closed" value="true" />
@@ -195,7 +202,39 @@
       <option name="project" value="LOCAL" />
       <updated>1748507479552</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="problem klasyfikacji">
+      <option name="closed" value="true" />
+      <created>1748533114614</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1748533114614</updated>
+    </task>
+    <task id="LOCAL-00012" summary="problem klasyfikacji">
+      <option name="closed" value="true" />
+      <created>1748896648575</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1748896648575</updated>
+    </task>
+    <task id="LOCAL-00013" summary="problem klasyfikacji">
+      <option name="closed" value="true" />
+      <created>1748896779640</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1748896779640</updated>
+    </task>
+    <task id="LOCAL-00014" summary="problem klasyfikacji">
+      <option name="closed" value="true" />
+      <created>1748897165337</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1748897165337</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
